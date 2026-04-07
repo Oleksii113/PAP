@@ -29,7 +29,7 @@ export function Header({ title = 'Dashboard' }: { title?: string }) {
         {/* User Menu */}
         <button className="flex items-center gap-2 rounded-lg p-2 hover:bg-accent">
           <div className="flex h-8 w-8 items-center justify-center rounded-full bg-primary text-primary-foreground">
-            <span>AD</span>
+            <span>OV</span>
           </div>
           <span className="text-foreground">Oleksii Velykyi</span>
           <ChevronDown className="h-4 w-4 text-foreground" />
